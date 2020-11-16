@@ -1,6 +1,2 @@
 
-xiaohong update readme
-xiaoming updata readme
-xiaogang update readme
-
-# Git main
+小A完成了功能
